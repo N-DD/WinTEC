@@ -1,0 +1,44 @@
+C:\Users\maghelli\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\TEC control.exe.config
+C:\Users\maghelli\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\TEC control.exe
+C:\Users\maghelli\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\TEC control.pdb
+C:\Users\maghelli\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\TEC control.xml
+C:\Users\maghelli\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\TEC_control.TEC.resources
+C:\Users\maghelli\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\TEC_control.Resources.resources
+C:\Users\maghelli\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\TEC_control.vbproj.GenerateResource.Cache
+C:\Users\maghelli\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\TEC control.exe
+C:\Users\maghelli\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\TEC control.xml
+C:\Users\maghelli\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\TEC control.pdb
+C:\Users\maghelli\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\TEC_control.vbprojResolveAssemblyReference.cache
+C:\Users\Nicola\Desktop\Prog\WindowsApplication1\WindowsApplication1\bin\Debug\TEC control.exe.config
+C:\Users\Nicola\Desktop\Prog\WindowsApplication1\WindowsApplication1\obj\Debug\TEC control.exe
+C:\Users\Nicola\Desktop\Prog\WindowsApplication1\WindowsApplication1\obj\Debug\TEC control.xml
+C:\Users\Nicola\Desktop\Prog\WindowsApplication1\WindowsApplication1\obj\Debug\TEC control.pdb
+C:\Users\Nicola\Desktop\Prog\WindowsApplication1\WindowsApplication1\bin\Debug\TEC control.exe
+C:\Users\Nicola\Desktop\Prog\WindowsApplication1\WindowsApplication1\bin\Debug\TEC control.pdb
+C:\Users\Nicola\Desktop\Prog\WindowsApplication1\WindowsApplication1\bin\Debug\TEC control.xml
+C:\Users\Nicola\Desktop\Prog\WindowsApplication1\WindowsApplication1\obj\Debug\TEC_control.vbprojResolveAssemblyReference.cache
+C:\Users\Nicola\Desktop\Prog\WindowsApplication1\WindowsApplication1\obj\Debug\TEC_control.TEC.resources
+C:\Users\Nicola\Desktop\Prog\WindowsApplication1\WindowsApplication1\obj\Debug\TEC_control.Resources.resources
+C:\Users\Nicola\Desktop\Prog\WindowsApplication1\WindowsApplication1\obj\Debug\TEC_control.vbproj.GenerateResource.Cache
+C:\Users\maghelli\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\TEC control.exe.config
+C:\Users\maghelli\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\TEC control.exe
+C:\Users\maghelli\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\TEC control.xml
+C:\Users\maghelli\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\TEC control.pdb
+C:\Users\maghelli\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\TEC control.exe
+C:\Users\maghelli\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\TEC control.pdb
+C:\Users\maghelli\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\TEC control.xml
+C:\Users\maghelli\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\TEC_control.vbprojResolveAssemblyReference.cache
+C:\Users\maghelli\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\TEC_control.TEC.resources
+C:\Users\maghelli\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\TEC_control.Resources.resources
+C:\Users\maghelli\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\TEC_control.vbproj.GenerateResource.Cache
+C:\Users\Nicola\Documents\GitHub\WinTEC\WindowsApplication1\bin\Debug\TEC control.exe.config
+C:\Users\Nicola\Documents\GitHub\WinTEC\WindowsApplication1\obj\Debug\TEC control.exe
+C:\Users\Nicola\Documents\GitHub\WinTEC\WindowsApplication1\obj\Debug\TEC control.xml
+C:\Users\Nicola\Documents\GitHub\WinTEC\WindowsApplication1\obj\Debug\TEC control.pdb
+C:\Users\Nicola\Documents\GitHub\WinTEC\WindowsApplication1\bin\Debug\TEC control.exe
+C:\Users\Nicola\Documents\GitHub\WinTEC\WindowsApplication1\bin\Debug\TEC control.pdb
+C:\Users\Nicola\Documents\GitHub\WinTEC\WindowsApplication1\bin\Debug\TEC control.xml
+C:\Users\Nicola\Documents\GitHub\WinTEC\WindowsApplication1\obj\Debug\TEC_control.vbprojResolveAssemblyReference.cache
+C:\Users\Nicola\Documents\GitHub\WinTEC\WindowsApplication1\obj\Debug\TEC_control.TEC.resources
+C:\Users\Nicola\Documents\GitHub\WinTEC\WindowsApplication1\obj\Debug\TEC_control.Resources.resources
+C:\Users\Nicola\Documents\GitHub\WinTEC\WindowsApplication1\obj\Debug\TEC_control.vbproj.GenerateResource.Cache

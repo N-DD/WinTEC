@@ -376,8 +376,7 @@ Partial Class TEC
         Me.SensorsT2.DecimalPlaces = 1
         Me.SensorsT2.Increment = New Decimal(New Integer() {1, 0, 0, 65536})
         Me.SensorsT2.Location = New System.Drawing.Point(57, 83)
-        Me.SensorsT2.Maximum = New Decimal(New Integer() {30, 0, 0, 0})
-        Me.SensorsT2.Minimum = New Decimal(New Integer() {50, 0, 0, -2147483648})
+        Me.SensorsT2.Minimum = New Decimal(New Integer() {100, 0, 0, -2147483648})
         Me.SensorsT2.Name = "SensorsT2"
         Me.SensorsT2.ReadOnly = True
         Me.SensorsT2.Size = New System.Drawing.Size(50, 20)
@@ -389,8 +388,7 @@ Partial Class TEC
         Me.SensorsT1.DecimalPlaces = 1
         Me.SensorsT1.Increment = New Decimal(New Integer() {1, 0, 0, 65536})
         Me.SensorsT1.Location = New System.Drawing.Point(57, 57)
-        Me.SensorsT1.Maximum = New Decimal(New Integer() {30, 0, 0, 0})
-        Me.SensorsT1.Minimum = New Decimal(New Integer() {50, 0, 0, -2147483648})
+        Me.SensorsT1.Minimum = New Decimal(New Integer() {100, 0, 0, -2147483648})
         Me.SensorsT1.Name = "SensorsT1"
         Me.SensorsT1.ReadOnly = True
         Me.SensorsT1.Size = New System.Drawing.Size(50, 20)

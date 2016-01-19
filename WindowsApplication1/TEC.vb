@@ -386,7 +386,7 @@
                     Dim style = MsgBoxStyle.Critical Or MsgBoxStyle.OkOnly Or MsgBoxStyle.ApplicationModal
                     Dim message = ex.Message
                     Dim title = cpName
-                    If MsgBox(message, style, title) = MsgBoxResult.Ok Then
+                    If MsgBox(message, style, title & " Get status") = MsgBoxResult.Ok Then
                         ' Application.Exit()
                     End If
                 End Try
